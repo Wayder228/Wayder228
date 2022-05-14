@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wayder228
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Wayder
+- 👀 I’m interested in coding php
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me wayder#9306, vk.com/waydermcpe
 
 <!---
 Wayder228/Wayder228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
